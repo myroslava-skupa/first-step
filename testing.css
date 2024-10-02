@@ -1,0 +1,145 @@
+body {
+    background-color: black;
+}
+.container {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid white;
+    border-top: 1px solid white ;
+}
+.style1 {
+    margin-right: 80vh;
+    font-weight: 600;
+}
+.p {
+    color: aliceblue;
+    font-size: small;
+    margin-left: 50px;
+}
+.style2 {
+    color: white;
+    font-size: 4em;
+    font-weight: 200;  
+}
+.styles3 {
+    margin-left: 100px;
+    margin-top: -40px;
+}
+.styles4 {
+    margin-left: 325px;
+    margin-top: -10px;
+}
+.styless {
+    font-size: small;
+    font-weight: normal;
+    margin-left: 430px ;
+    margin-top: -120px ;
+}
+.p2 {
+    color: aliceblue;
+    font-size: x-small;
+    margin-left: 50%;
+    margin-top: -100px;
+    width: 15%;
+}
+ul {
+    list-style: none;
+    color: aliceblue;
+    display: flex;
+    /* justify-content:right; */
+    margin-left: 30%;
+    margin-top: 80px;
+}
+.list-item {
+    margin-left: 50px;
+}
+img {
+    width: 100%;
+   margin-top: 20px;
+}
+.h2 {
+    color: aliceblue;
+    font-weight: 200;
+    font-size: xx-large;
+    margin-top: -68%;
+    margin-left: 60px;
+}
+.p3 {
+    color: aliceblue;
+    font-size: smaller;
+    width:20%;
+    margin-left: 100px;
+}
+.div1 {
+    color: aliceblue;
+    font-weight: 200;
+    font-size: larger;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.div2 {
+    color: aliceblue;
+    font-weight: 200;
+    font-size: larger;
+    margin-left: 70%;
+    margin-top: -10%;
+}
+.h3 {
+    color: rgb(224, 64, 184);
+    font-size: 7em;
+    font-weight: 200;
+    margin-left: 35%;
+    margin-top: 38%;
+}
+.button1 {
+    color: aliceblue;
+    background-color: rgb(26, 25, 25);
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    border: none;
+
+}
+.button2 {
+    color: aliceblue;
+    background-color: black;
+    border-radius: 20px;
+    height: 50px;
+    width: 150px;
+    border: solid rgb(224, 64, 184);;
+}
+.div-buttons {
+    margin-top: -12%;
+    margin-left: 20px;
+}
+.nav {
+    list-style: none;
+    color: aliceblue;
+    display: flex;
+    margin-top: -1%;
+    margin-left: 50%;
+}
+.list-item2 {
+    margin-left: 15%;
+}
+.img2 {
+    width: 35%;
+    margin-left: 30px;
+    margin-top: 60px;
+}
+.border-image1 {
+    border-right: 40px solid rgb(224, 64, 184);;
+    width: 65%;
+    margin-top: -43.6vh;
+    margin-left: 30px;
+}
+.border-image2 {
+    border-right: 40px solid rgb(224, 64, 184);;
+    margin-left:50% ;
+    width: 65%;
+    height: 30px;
+
+
+} 
